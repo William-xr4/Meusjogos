@@ -1,0 +1,11 @@
+#carouselExampleControls{
+    width:600px;
+    height:700px;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+body{
+    text-align:center !important;
+    background:linear-gradient( darkblue 0%, rgba(0, 132, 255, 0.925) 100%);
+}
